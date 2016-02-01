@@ -8,3 +8,4 @@ Feature2
 Feature changes
 
 Fixing bug 1234
+Another fix to bug 1234
